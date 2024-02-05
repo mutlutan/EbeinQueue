@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbeninQueue", "EbeninQueue\EbeninQueue.csproj", "{6E16996C-0ED3-4657-8CBC-5AECE58D56EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E16996C-0ED3-4657-8CBC-5AECE58D56EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E16996C-0ED3-4657-8CBC-5AECE58D56EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E16996C-0ED3-4657-8CBC-5AECE58D56EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E16996C-0ED3-4657-8CBC-5AECE58D56EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04BC775C-6018-44B2-8CB2-8491E3958DAF}
+	EndGlobalSection
+EndGlobal

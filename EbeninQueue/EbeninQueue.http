@@ -1,0 +1,6 @@
+@EbeninQueue_HostAddress = https://localhost:44360
+
+GET {{EbeninQueue_HostAddress}}/QueuesApi/GetMemory
+Accept: application/json
+
+###
