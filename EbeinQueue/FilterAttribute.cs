@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc;
 
-namespace EbeninQueue
+namespace EbeinQueue
 {
     public class AuthenticateRequiredAttribute : ActionFilterAttribute
     {

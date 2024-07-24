@@ -1,4 +1,4 @@
-﻿namespace EbeninQueue
+﻿namespace EbeinQueue
 {
     #region models
     public class MoResponse<T> where T : new()

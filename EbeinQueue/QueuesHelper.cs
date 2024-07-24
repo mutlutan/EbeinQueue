@@ -2,7 +2,7 @@ using System.Collections.Concurrent;
 using System.Reflection;
 using System.Xml.Linq;
 
-namespace EbeninQueue
+namespace EbeinQueue
 {
     public class QueuesHelper
     {

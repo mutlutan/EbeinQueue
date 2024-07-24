@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace EbeninQueue.Controllers
+namespace EbeinQueue.Controllers
 {
     [ApiController]
     [Route("[controller]")]
