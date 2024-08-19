@@ -24,6 +24,7 @@ string htmlText = @$"
         <style>
             html {{color:black}}
         </style>
+
     </head>
     
     <body class=""container pt-3"">
